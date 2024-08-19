@@ -5,9 +5,7 @@
 - fridge_postprocess.csv
 - lens_postprocess.csv
 - tv_postprocess.csv
-## 处理后的数据
-处理后的数据存储在db文件中,数据结构显示在data format.docx文档中.
-- products.rar
+
 ## 数据结构说明文档
 该文档中展示了.db文档中的数据格式.
 - data format.docx
